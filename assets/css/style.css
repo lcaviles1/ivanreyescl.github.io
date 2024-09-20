@@ -14,15 +14,6 @@ body {
     color:white;
 }
 
-.about-me > li {
-    font-weight: bold;
-    font-size:large;
-}
-
-.about-me > span{
-    font-size:medium
-}
-
 .box-3{
     height: 100%;
 }
