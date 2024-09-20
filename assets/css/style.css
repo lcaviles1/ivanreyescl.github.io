@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin:0px;
+}
+
+i{
+    color:#ffffff;
+}
+
+.box-3{
+    height: 100%;
+}
+
+.box-3 > section{
+    display: flex;
+    padding: 5rem;
+    justify-content: center;
+    gap: 1%;
+}
+
+.box-3 > section > article > img{
+    height:20rem;
+}
